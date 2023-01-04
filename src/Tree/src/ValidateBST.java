@@ -1,3 +1,4 @@
+package Tree.src;
 
 public class ValidateBST {
 	public static boolean checkBST(TreeNode root) {

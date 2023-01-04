@@ -1,3 +1,5 @@
+package Graph.src;
+
 //https://zhuhan0.blogspot.com/search/label/Graph?updated-max=2017-07-27T23:04:00-07:00&max-results=20&start=4&by-date=false
 
 //issue with sol1 is does not work correctly with character in differnt order although work fine with order start with a and everything is in order.

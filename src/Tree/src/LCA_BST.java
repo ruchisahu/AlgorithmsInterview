@@ -1,3 +1,4 @@
+package Tree.src;
 
 public class LCA_BST {
 	 public static TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {

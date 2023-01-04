@@ -2,6 +2,8 @@
 //https://www.bbsmax.com/A/pRdBanl15n/
 //Input: root = [4,2,6,1,3,5,7], V = 2
 //Output: [[2,1],[4,3,6,null,null,5,7]]
+package Tree.src;
+
 
 public class splitBST776 {
 	public static TreeNode[] splitBST(TreeNode root, int V) {

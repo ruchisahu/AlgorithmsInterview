@@ -1,4 +1,6 @@
-	import java.util.*;
+package Graph.src;
+
+import java.util.*;
 
 	// Java program to find minimum steps to reach to
 	// specific cell in minimum moves by Knight

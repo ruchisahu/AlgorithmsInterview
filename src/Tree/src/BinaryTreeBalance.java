@@ -1,3 +1,4 @@
+package Tree.src;
 
 public class BinaryTreeBalance {
 	public static boolean checkBalance(TreeNode root) {

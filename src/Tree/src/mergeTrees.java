@@ -1,3 +1,4 @@
+package Tree.src;
 
 public class mergeTrees {
 	 public static TreeNode mergeTrees(TreeNode t1, TreeNode t2) {

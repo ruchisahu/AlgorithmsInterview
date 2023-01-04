@@ -1,5 +1,8 @@
 // Java program to find inorder successor of a node
+
 //https://www.youtube.com/watch?v=JdmAYw5h3G8
+
+package Tree.src;
 public class InorderSuccessor {
 	public static TreeNode inorderSuccessor(TreeNode root, TreeNode p) {
         //case1:when p has right node. return left most of right

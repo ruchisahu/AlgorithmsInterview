@@ -1,6 +1,8 @@
 // Java to shortest path from a given source vertex 's' to
 // a given destination vertex 't'. Expected time complexity
 // is O(V+E).
+
+package Graph.src;
 import java.util.*;
 
 class ShortestPath

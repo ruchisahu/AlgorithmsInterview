@@ -1,4 +1,6 @@
- import java.util.*;
+package Tree.src;
+
+import java.util.*;
 //https://leetcode.com/problems/find-duplicate-subtrees/
 public class findDuplicateSubtrees {
 	 static Map<String, Integer> count;

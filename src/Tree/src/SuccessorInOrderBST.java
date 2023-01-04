@@ -1,3 +1,4 @@
+package Tree.src;
 
 public class SuccessorInOrderBST {
 	public static TreeNode Successor(TreeNode root){

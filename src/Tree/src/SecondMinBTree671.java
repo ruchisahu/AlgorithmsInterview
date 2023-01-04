@@ -1,3 +1,4 @@
+package Tree.src;
 
 public class SecondMinBTree671 {
 	private static int MAX1 = Integer.MAX_VALUE;

@@ -1,3 +1,4 @@
+package Graph.src;
 
 public class closedIsland1254 {
 	 public static int closedIsland(int[][] g) {

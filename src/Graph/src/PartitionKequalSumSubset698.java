@@ -1,4 +1,4 @@
-
+package Graph.src;
 public class PartitionKequalSumSubset698 {
 	 public static boolean canPartitionKSubsets(int[] nums, int k) {
 	
